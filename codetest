@@ -1,0 +1,5 @@
+print ("welcome to the test code")
+def yellow=2
+def green=4
+print(yellow+green)
+print("It is 6 right?")
